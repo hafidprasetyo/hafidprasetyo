@@ -4,4 +4,4 @@
 ● How to reach me hafidariefprasetyo@gmail.com
 
 ![](https://github-readme-stats.vercel.app/api?username=hafidprasetyo)
-![](https://github-readme-stats.vercel.app/api?username=hafidprasetyo&theme=blue-green)](https://github.com/hafidprasetyo/github-readme-stats)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=hafidprasetyo&theme=blue-green)]
